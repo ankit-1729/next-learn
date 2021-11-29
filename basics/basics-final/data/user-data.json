@@ -1,0 +1,10 @@
+{
+  "user-1": {
+    "name": "n1",
+    "address": "a1"
+  },
+  "user-2": {
+    "name": "n2",
+    "address": "a2"
+  }
+}
